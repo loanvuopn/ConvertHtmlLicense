@@ -1,2 +1,1 @@
-Commandline sample:
 py main.py -input D:\Fuji\TW-BackEnd\convert-html-license\input\1.LICENSE.txt D:\Fuji\TW-BackEnd\convert-html-license\input\2.LICENSE.txt -output D:\Fuji\TW-BackEnd\convert-html-license\output\test02.html --header true
